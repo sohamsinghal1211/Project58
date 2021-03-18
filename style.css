@@ -1,0 +1,10 @@
+body {
+    color: blue;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+#image1 {
+    width: 500px;
+    border-radius: 50%;
+}
